@@ -8,14 +8,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* Ошибка валидации ключа из валидного списка
-https://github.com/Shenaeva/KeyValidator/issues/1
+*[Ошибка валидации ключей из валидного списка](https://github.com/Shenaeva/KeyValidator/issues/1)
 
-* Ошибка валидации ключа из валидного списка
-https://github.com/Shenaeva/KeyValidator/issues/2
-
-*Ошибка валидации ключа из невалидного списка
-https://github.com/Shenaeva/KeyValidator/issues/3
+*[Ошибка валидации ключа из невалидного списка](https://github.com/Shenaeva/KeyValidator/issues/3)
 
 ## Описание процесса тестирования
 
@@ -23,7 +18,7 @@ https://github.com/Shenaeva/KeyValidator/issues/3
 
 1. Руководство использования KeyValidator.
 
-В качестве тестовых данных использовались данные из Руководство использования KeyValidator (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
+В качестве тестовых данных использовались данные из Руководство использования [KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 Ключи для проверки
 
